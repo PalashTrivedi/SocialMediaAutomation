@@ -27,8 +27,8 @@ Create interactive virtual social media influencers
 3. Clone this repository:
 
     ```bash
-    git clone https://github.com/
-    cd letthemlive
+    git clone https://github.com/PalashTrivedi/SocialMediaAutomation.git
+    cd SocialMediaAutomation
     ```
 
 4. Create a `.env` file in the root directory and add your Instagram username and password:
