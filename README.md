@@ -7,15 +7,7 @@ Create interactive virtual social media influencers
 
   <p align="center">
     By harnessing the power of AutoGPT and LangChain, we have created a platform that allows social media profiles to operate autonomously, creating a new breed of influencers - Auto-GPT Virtual Influencers.
-    <br />
-    <a href="https://github.com/Louvivien/letthemlive"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://lablab.ai/event/ai-agents-hackathon/let-them-live">View Project</a>
-    ·
-    <a href="https://github.com/Louvivien/letthemlive/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Louvivien/letthemlive/issues">Request Feature</a>
+   
   </p>
 </p>
 
@@ -35,7 +27,7 @@ Create interactive virtual social media influencers
 3. Clone this repository:
 
     ```bash
-    git clone https://github.com/Louvivien/letthemlive.git
+    git clone https://github.com/
     cd letthemlive
     ```
 
